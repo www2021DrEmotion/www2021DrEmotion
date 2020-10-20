@@ -1,7 +1,10 @@
 ### Hi there 👋
 This repository is for WWW2021 reviewer to test the reproducibility of our work.\
 Thank you for your efforts!\
-The index for label refers to anger, anticipation, disgust, fear, joy, sadness, surprise, trust.
+The index for label refers to anger, anticipation, disgust, fear, joy, sadness, surprise, trust.\
+The file Dr_Emotion.ipynb defines the structure of our network.\
+The file transformer_fine_tune.ipynb fine-tunes a RoBERTa for downstream emotion analysis task.\ 
+The file transformer_embedding_extraction.ipynb extracts embedding from existing RoBERTa.\
 <!--
 **www2021DrEmotion/www2021DrEmotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,21 +1,13 @@
 ### Hi there 👋
-This repository is for WWW2021 reviewer to test the reproducibility of our work.\
-Thank you for your efforts!\
-The index for label refers to anger, anticipation, disgust, fear, joy, sadness, surprise, trust.\
-The file Dr_Emotion.ipynb defines the structure of our network.\
-The file transformer_fine_tune.ipynb fine-tunes a RoBERTa for downstream emotion analysis task.\
-The file transformer_embedding_extraction.ipynb extracts embedding from existing RoBERTa.
-<!--
-**www2021DrEmotion/www2021DrEmotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Our paper 'Dr.Emotion: Disentangled Representation Learning for Emotion Analysis on Social Media to Improve Community Resilience in the COVID-19 Era and Beyong' has been accpeted to WWW2021.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository includes sample dataset and model construction mentioned in our work. 
+If you utilize source code or dataset provided in this repository, please cite our paper.
+
+
+@article{DrEmotion,
+  title={Dr. Emotion: Disentangled Representation Learning for Emotion Analysis on Social Media to Improve Community Resilience in the COVID-19},
+  author={Mingxuan Ju, Wei Song, Shiyu Sun, Yanfang Ye, Yujie Fan, Shifu Hou, Kenneth Loparo, Liang Zhao },
+  journal={WWW2021},
+}
